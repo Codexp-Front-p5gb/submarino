@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    width: 100%;
+    background-color: #FFFFFF;
+}
+
+.navbar ul {
+    list-style: none;
+}
+
+.navbar_list_item {
+    display: inline-block;
+    color: #666;
+    font-size: 16px;
+}
+
+.highlight {
+    color: #ff2b4e;
+}
